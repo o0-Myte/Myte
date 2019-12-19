@@ -34,7 +34,7 @@ body:before {
 .top-nav-collapse {
   background-color: #b81b1b;}
 
-.navbar:not(.top-nav-collapse) {background: linear-gradient(360deg, #000000, #000000);}
+.navbar:not(.top-nav-collapse) {background: linear-gradient(360deg, #000000, #ffffff );}
 #intro .h6 {
   font-family: "Andale Mono", monospace;
   font-weight: 350;

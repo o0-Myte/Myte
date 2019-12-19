@@ -1,0 +1,7 @@
+{
+  "name": "Nyte Site",
+  "description": "Nyte Site's Flagship Proxy Site.",
+  "repository": "https://github.com/n4-Nyte",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["proxy", "filter", "bypass"]
+}

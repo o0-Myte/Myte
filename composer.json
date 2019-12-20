@@ -1,5 +1,5 @@
 {
-        "name": "NyteSite",
+        "name": "Myte",
         "type": "project",
         "license": "MIT",
         "description": "Web proxy application project powered by PHP-Proxy library",
